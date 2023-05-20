@@ -6,9 +6,9 @@
           <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Everything you need for your project</p>
           <p class="mt-6 text-lg leading-8 text-gray-600">We provide innovative solutions for construction projects. We design, fabricate, and install various types of steel structures with quality and safety.</p>
         </div>
-        <div class="mx-auto mt-16 max-w-3xl sm:mt-20 lg:mt-24 lg:max-w-5xl">
+        <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-5xl">
           <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
-            <div class="relative pl-16">
+            <div class="relative">
               <img class="rounded-xl" src="~/assets/img/projects/2.jpg" alt="" />
               <dt class="text-base font-semibold leading-10 text-gray-900 mt-4">
                 Steel Fabricating
@@ -17,7 +17,7 @@
               <dd class="mt-2 text-base leading-7 text-gray-600"> Some of the fabrication services we support are: </dd>
               <dd class="mt-2 text-base leading-7 text-blue-600"> Duck succession line, Chimney, Stainless steel tank, Steel tank, Stairs flat form & hand ray, Steel roof & Steel building construction, Galvanize all role works, Lathe works, Quality welding for TIG, MIG, ARC, GAS</dd>
             </div>
-            <div class="relative pl-16">
+            <div class="relative">
               <img class="rounded-xl" src="~/assets/img/projects/3.jpg" alt="" />
               <dt class="text-base font-semibold leading-10 text-gray-900 mt-4">
                 Pipe Line Construction

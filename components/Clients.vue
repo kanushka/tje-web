@@ -7,24 +7,24 @@
           <p class="mt-6 text-lg leading-8 text-gray-600">We are proud to have worked with some of the most reputable and respected companies in the industry. Here are some of our valued clients.</p>
         </div>
       <div
-        class="mx-auto mt-20 grid max-w-lg grid-cols-3 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-3 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-3"
+        class="mx-auto mt-20 grid max-w-lg grid-cols-1 items-center gap-x-8 gap-y-10 sm:max-w-xl md:grid-cols-3 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5"
       >
         <img
-          class="col-span-2 max-h-24 w-full object-contain lg:col-span-1"
+          class="lg:col-start-2 col-span-1 max-h-24 w-full object-contain"
           src="~/assets/img/clients/elephant-house.png"
           alt="Elephant House"
           width="158"
           height="48"
         />
         <img
-          class="col-span-2 max-h-24 w-full object-contain lg:col-span-1"
+          class="col-span-1 max-h-24 w-full object-contain"
           src="~/assets/img/clients/macktitles.png"
           alt="Macktiles Lanka"
           width="158"
           height="48"
         />
         <img
-          class="col-span-2 max-h-24 w-full object-contain lg:col-span-1"
+          class="col-span-1 max-h-24 w-full object-contain"
           src="~/assets/img/clients/wijaya-products.png"
           alt="Wijaya Products"
           width="158"
