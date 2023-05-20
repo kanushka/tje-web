@@ -1,8 +1,8 @@
 <template>
   <section>
-    <Team />
+    <About />
   </section>
-  <section>
+  <!-- <section>
     <Contact />
-  </section>
+  </section> -->
 </template>

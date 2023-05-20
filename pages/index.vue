@@ -2,14 +2,14 @@
   <section>
     <Hero />
   </section>
-  <section>
+  <section id="services">
     <Services />
   </section>
   <section>
-    <Stat />
+    <Clients />
   </section>
-  <section>
+  <!-- <section>
     <Testimonials />
-  </section>
+  </section> -->
 </template>
   
