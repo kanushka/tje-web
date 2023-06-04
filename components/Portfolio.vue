@@ -8,7 +8,7 @@
 
 <script setup>
 const imgUrl = computed(() => {
-    return new URL(`assets/img/projects/1.jpg`, import.meta.url).href;
+    return new URL(`assets/img/projects/other-1.jpg`, import.meta.url).href;
   });
 
 const getImageUrl = (path) => {

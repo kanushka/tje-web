@@ -61,7 +61,7 @@
       >
         <img
           class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
-          src="~/assets/img/projects/1.jpg"
+          src="~/assets/img/projects/other-1.jpg"
           alt=""
         />
       </div>

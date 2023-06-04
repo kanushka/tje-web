@@ -13,7 +13,7 @@
         <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
           <div class="relative">
             <NuxtLink to="/services#1">
-              <img class="rounded-xl" src="~/assets/img/projects/2.jpg" alt="" />
+              <img class="rounded-xl" src="~/assets/img/projects/other-2.jpg" alt="" />
               <dt class="text-base font-semibold leading-10 text-gray-900 mt-4">
                 Steel Fabricating
               </dt>
@@ -26,7 +26,7 @@
           </div>
           <div class="relative">
             <NuxtLink to="/services#2">
-              <img class="rounded-xl" src="~/assets/img/projects/3.jpg" alt="" />
+              <img class="rounded-xl" src="~/assets/img/projects/other-3.jpg" alt="" />
               <dt class="text-base font-semibold leading-10 text-gray-900 mt-4">
                 Pipe Line Construction
               </dt>
