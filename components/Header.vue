@@ -74,7 +74,7 @@ import { ChevronDownIcon, PhoneIcon, PlayCircleIcon } from '@heroicons/vue/20/so
 
   const navigation = [
     { name: 'Home', href: '/' },
-    { name: 'Services', href: '/#services' },
+    { name: 'Services', href: '/services' },
     // { name: 'Projects', href: '#' },
     { name: 'About', href: '/about' },
   ]

@@ -21,5 +21,6 @@ export default defineNuxtConfig({
                 /* module options */
             },
         ],
+        '@nuxt/image-edge',
     ],
 });

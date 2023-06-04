@@ -15,10 +15,7 @@
             <a href="/about" class="mr-4 hover:underline md:mr-6">About</a>
           </li>
           <li>
-            <a href="#" class="mr-4 hover:underline md:mr-6">Privacy Policy</a>
-          </li>
-          <li>
-            <a href="#" class="mr-4 hover:underline md:mr-6">Licensing</a>
+            <a href="https://www.freeprivacypolicy.com/live/2c369729-0109-46e4-bfdf-cb69407619a6" target="_blank" class="mr-4 hover:underline md:mr-6">Privacy Policy</a>
           </li>
           <li>
             <a href="/about#contact" class="hover:underline">Contact</a>
