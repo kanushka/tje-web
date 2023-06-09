@@ -29,13 +29,13 @@ pnpm build
 Locally preview production build:
 
 ```bash
-pnpm preview
+pnpm run preview
 ```
 
 ## Static Page Generation
 
 ```bash
-pnpm generate
+pnpm run generate
 ```
 
 ## Deployment
