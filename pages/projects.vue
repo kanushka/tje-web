@@ -37,9 +37,9 @@
 
             </div>
 
-            <div class="grid gap-4 grid-cols-3">
+            <div class="grid gap-2 grid-cols-2 md:grid-cols-3 md:gap-4">
                 <span v-for="image in images" :key="image.id">
-                    <img :src="image.url" class="" :alt="image.id" />
+                    <img :src="image.url" class="" :alt="image.id.toString()" />
                 </span>
             </div>
 

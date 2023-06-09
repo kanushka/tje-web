@@ -38,7 +38,13 @@ pnpm preview
 pnpm generate
 ```
 
+## Deployment
+
+```bash
+pnpm deploy
+```
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
 
-Firebase Demo: https://tjengineering.web.app
+Live website: https://tjengineering.lk
