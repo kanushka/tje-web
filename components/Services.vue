@@ -12,7 +12,7 @@
       <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-5xl">
         <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
           <div class="relative">
-            <NuxtLink to="/services#1">
+            <NuxtLink to="/services#steel-fabricating">
               <img class="rounded-xl" src="~/assets/img/projects/other-2.jpg" alt="" />
               <dt class="text-base font-semibold leading-10 text-gray-900 mt-4">
                 Steel Fabricating
@@ -25,7 +25,7 @@
             <!-- <dd class="mt-2 text-base leading-7 text-blue-600"> Duck succession line, Chimney, Stainless steel tank, Steel tank, Stairs flat form & hand ray, Steel roof & Steel building construction, Galvanize all role works, Lathe works, Quality welding for TIG, MIG, ARC, GAS</dd> -->
           </div>
           <div class="relative">
-            <NuxtLink to="/services#2">
+            <NuxtLink to="/services#pipe-line-construction">
               <img class="rounded-xl" src="~/assets/img/projects/other-3.jpg" alt="" />
               <dt class="text-base font-semibold leading-10 text-gray-900 mt-4">
                 Pipe Line Construction

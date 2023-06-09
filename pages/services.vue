@@ -50,7 +50,7 @@ const services = [
     },
     {
         id: 2,
-        caption: "Services",
+        caption: "#",
         title: "Pipe Line Construction",
         description:
             "Pipeline construction is the process of building pipelines that transport fluids such as oil and gas. At TJ Engineering, we use high-quality welding techniques to ensure that our pipelines are strong and reliable.",
@@ -78,7 +78,7 @@ const services = [
     },
     {
         id: 3,
-        caption: "Services",
+        caption: "#",
         title: "Steel Roofing",
         description:
             "Steel roofing is a type of roofing material that is made from steel. Steel roofing is durable and long-lasting and can be used in various applications such as residential homes and commercial buildings. At TJ Engineering, we provide high-quality welding services to ensure that our steel roofs are strong and reliable.",
@@ -90,7 +90,7 @@ const services = [
     },
     {
         id: 4,
-        caption: "Services",
+        caption: "#",
         title: "Steel Building Construction",
         description:
             "Steel building construction is the process of constructing buildings using steel as the primary structural material. Steel buildings are durable and can be used in various applications such as warehouses, factories, and office buildings. At TJ Engineering, we provide high-quality welding services to ensure that our steel buildings are strong and reliable.",
@@ -102,7 +102,7 @@ const services = [
     },
     {
         id: 5,
-        caption: "Services",
+        caption: "#",
         title: "Spillway Gate",
         description:
             "At TJ Engineering, we specialize in creating spillway gates for dams and reservoirs. Our spillway gates are designed to regulate the water flow of rivers and streams, ensuring safety and efficiency. We offer a variety of spillway gates, such as sluice gates, vertical lift gates, radial gates, and drum gates, that operate by gravity, hydraulics, or mechanical power. Our spillway gates are durable, reliable, and easy to maintain. We have the expertise and experience to handle any spillway gate project, from design to installation.",
@@ -114,7 +114,7 @@ const services = [
     },
     {
         id: 6,
-        caption: "Services",
+        caption: "#",
         title: "Duct Installation",
         description:
             "Duct installation is the process of installing ducts that are used for heating, ventilation, and air conditioning (HVAC) systems. At TJ Engineering, we provide high-quality welding services to ensure that our ducts are strong and durable.",
@@ -126,7 +126,7 @@ const services = [
     },
     {
         id: 7,
-        caption: "Services",
+        caption: "#",
         title: "Steel Stairs",
         description:
             "Stairs are a series of steps that allow people to move from one level of a building to another. At TJ Engineering, we offer custom-designed stairs that are not only functional but also aesthetically pleasing.",
@@ -138,7 +138,7 @@ const services = [
     },
     {
         id: 8,
-        caption: "Services",
+        caption: "#",
         title: "Steel Grating Cover",
         description:
             "Steel grating covers are used for drainage and are made of steel grating plates and fixed frames. They are a good replacement for conventional cast iron materials.",
@@ -150,7 +150,7 @@ const services = [
     },
     {
         id: 9,
-        caption: "Services",
+        caption: "#",
         title: "Truck Loading and Unloading Conveyor",
         description:
             "TJ Engineering offers truck loading and unloading conveyors at an affordable price. These conveyors are used to load trailers or trucks and are often used in warehouses and distribution centers. They can vary in length and width and are typically designed to load trucks from one side only.",

@@ -41,7 +41,7 @@ pnpm generate
 ## Deployment
 
 ```bash
-pnpm deploy
+pnpm run deploy
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
