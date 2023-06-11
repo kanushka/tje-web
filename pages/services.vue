@@ -105,7 +105,7 @@ const services = [
         caption: "#",
         title: "Spillway Gate",
         description:
-            "At TJ Engineering, we specialize in creating spillway gates for dams and reservoirs. Our spillway gates are designed to regulate the water flow of rivers and streams, ensuring safety and efficiency. We offer a variety of spillway gates, such as sluice gates, vertical lift gates, radial gates, and drum gates, that operate by gravity, hydraulics, or mechanical power. Our spillway gates are durable, reliable, and easy to maintain. We have the expertise and experience to handle any spillway gate project, from design to installation.",
+            "TJ Engineering specializes in spillway gates designed to safely contain water, including water with chemicals, until it's deemed safe for disposal. Our spillway gates utilize materials like hot-dip galvanizing and rubber beading for durability. We offer both manual and automated (motorized) versions of our spillway gates, providing flexibility in operation and control over water flow. From design to installation and maintenance, our experienced team ensures tailored solutions for optimal performance and reliability in spillway gate projects. Choose TJ Engineering for secure water containment and controlled release, even with chemical-laden water.",
         image: {
             src: useAsset("img/projects/15.jpeg"),
             alt: "Spillway Gate",
@@ -153,7 +153,7 @@ const services = [
         caption: "#",
         title: "Truck Loading and Unloading Conveyor",
         description:
-            "TJ Engineering offers truck loading and unloading conveyors at an affordable price. These conveyors are used to load trailers or trucks and are often used in warehouses and distribution centers. They can vary in length and width and are typically designed to load trucks from one side only.",
+            "TJ Engineering offers motorized auto-pulling and manual pulling conveyors for efficient truck loading and unloading. Our motorized conveyors provide automated handling, ideal for high-volume operations. For simpler tasks, our manual pulling conveyors offer reliability and flexibility. Both options are customizable to accommodate various truck and trailer sizes, ensuring streamlined logistics operations. Choose TJ Engineering for cost-effective solutions that optimize your truck loading and unloading processes",
         image:{},
         video: {
             src: useAsset("video/conveyors.mp4"),
