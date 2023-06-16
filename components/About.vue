@@ -104,6 +104,13 @@
                   class="mt-1 h-5 w-5 flex-none text-blue-600"
                   aria-hidden="true"
                 />
+                <span>info@tjengineering.lk</span>
+              </li>
+              <li class="flex gap-x-3">
+                <EnvelopeIcon
+                  class="mt-1 h-5 w-5 flex-none text-blue-600"
+                  aria-hidden="true"
+                />
                 <span>tjengineering133@gmail.com</span>
               </li>
               <li class="flex gap-x-3">
