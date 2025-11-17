@@ -54,7 +54,7 @@
 <script setup lang="ts">
 
 function useAsset(path: string): string {
-    const assets = import.meta.glob('~/assets/**/*', {
+    const assets = import.meta.glob('~/assets/**/*.{png,jpg,jpeg,gif,svg,webp}', {
         eager: true,
         import: 'default',
     })
