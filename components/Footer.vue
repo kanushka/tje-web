@@ -1,3 +1,19 @@
+<script setup lang="ts">
+import { useOrganizationSchema } from '~/composables/useSEOData';
+
+const organizationSchema = useOrganizationSchema();
+
+useHead({
+  script: [
+    {
+      type: 'application/ld+json',
+      children: JSON.stringify(organizationSchema),
+      key: 'organization-schema'
+    }
+  ]
+});
+</script>
+
 <template>
   <footer class="mt-24 bg-white">
     <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
@@ -23,10 +39,17 @@
         </ul>
       </div>
       <hr class="my-6 border-gray-200 sm:mx-auto lg:my-8" />
-      <span class="block text-sm text-gray-500 sm:text-center"
-        >© 2023 <a href="/" class="hover:underline">TJ Engineering</a>. All
-        Rights Reserved.</span
-      >
+      <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+        <span class="text-sm text-gray-500"
+          >© 2023 <a href="/" class="hover:underline">TJ Engineering</a>. All
+          Rights Reserved.</span
+        >
+        <div class="flex items-center gap-4 text-sm text-gray-500">
+          <a href="tel:+94773354353" class="hover:text-blue-600">+94 77 335 4353</a>
+          <span>•</span>
+          <a href="mailto:info@tjengineering.lk" class="hover:text-blue-600">info@tjengineering.lk</a>
+        </div>
+      </div>
     </div>
   </footer>
 </template>

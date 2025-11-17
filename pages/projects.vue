@@ -52,9 +52,16 @@
 </template>
 
 <script setup lang="ts">
+const title = "Our Projects | Steel Engineering Showcase";
+const description = "View our portfolio of completed projects demonstrating our engineering excellence and innovation in civil, mechanical, electrical, and environmental engineering sectors.";
+
+useSeoMeta({
+  title: title,
+  description: description,
+});
 
 function useAsset(path: string): string {
-    const assets = import.meta.glob('~/assets/**/*.{png,jpg,jpeg,gif,svg,webp}', {
+    const assets = import.meta.glob('~/assets/**/*.{png,jpg,jpeg,gif,svg,webp,mp4}', {
         eager: true,
         import: 'default',
     })

@@ -19,6 +19,13 @@
 </template>
 
 <script setup lang="ts">
+const title = "Our Services | Steel Fabrication, Welding & Construction";
+const description = "Explore our comprehensive steel fabrication services including steel tank fabrication, pipeline construction, steel roofing, building construction, spillway gates, and more. Quality engineering solutions in Sri Lanka.";
+
+useSeoMeta({
+  title: title,
+  description: description,
+});
 
 function useAsset(path: string): string {
     const assets = import.meta.glob('~/assets/**/*.{png,jpg,jpeg,gif,svg,webp,mp4}', {
