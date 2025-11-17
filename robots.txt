@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /.nuxt/
+Disallow: /node_modules/
+Disallow: /admin/
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://tjengineering.lk/sitemap.xml
