@@ -126,7 +126,7 @@ const services = [
         description:
             "Duct installation is the process of installing ducts that are used for heating, ventilation, and air conditioning (HVAC) systems. At TJ Engineering, we provide high-quality welding services to ensure that our ducts are strong and durable.",
         image: {
-            src: useAsset("img/projects/17.jpg"),
+            src: useAsset("img/projects/19.jpg"),
             alt: "Two each of gray, white, and black shirts laying flat.",
         },
         features: [],

@@ -76,7 +76,7 @@ const images = [
     },
 ]
 
-for (let index = 3; index < 17; index++) {
+for (let index = 3; index <= 18; index++) {
     images.push({
         id: index,
         url: useAsset(`img/projects/${index}.jpeg`)
