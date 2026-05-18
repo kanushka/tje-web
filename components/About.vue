@@ -107,13 +107,6 @@
                 <span>info@tjengineering.lk</span>
               </li>
               <li class="flex gap-x-3">
-                <EnvelopeIcon
-                  class="mt-1 h-5 w-5 flex-none text-blue-600"
-                  aria-hidden="true"
-                />
-                <span>tjengineering133@gmail.com</span>
-              </li>
-              <li class="flex gap-x-3">
                 <iframe
                   src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d3962.63698374038!2d79.981333!3d6.691806!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNDEnMzAuNSJOIDc5wrA1OCc1Mi44IkU!5e0!3m2!1sen!2sus!4v1684606714702!5m2!1sen!2sus"
                   width="600"
